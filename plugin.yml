@@ -1,0 +1,53 @@
+name: Slapper
+author: jojoe77777
+translator: WolfTubeTM
+version: 1.5.2
+description: Slapper, plugin NPC dành cho PocketMine-MP
+main: slapper\Main
+api: [3.9.0]
+mcpe-protocol: [361, 388, 389]
+website: https://github.com/jojoe77777/Slapper
+
+commands:
+  slapper:
+    description: Lệnh chính của Slapper.
+    usage: "/slapper [args]..."
+    permission: slapper.command
+  rca:
+    description: Thực hiện lệnh lên người chơi khác.
+    usage: "/rca <người chơi> <lệnh>"
+    permission: slapper.rca
+  nothing:
+    description: Không làm gì cả.
+    usage: "/nothing"
+    permission: slapper.nothing
+
+permissions:
+  slapper:
+    description: Cho phép sử dụng tất cả lệnh của Slapper.
+    default: op
+    children:
+      slapper.command:
+        description: Cho phép sử dụng /slapper
+        default: op
+      slapper.create:
+        description: Cho phép sử dụng /slapper create
+        default: op
+      slapper.edit:
+        description: Cho phép sử dụng /slapper edit
+        default: op
+      slapper.nothing:
+        description: Cho phép sử dụng /nothing
+        default: op
+      slapper.rca:
+        description: Cho phép sử dụng /rca
+        default: op
+      slapper.remove:
+        description: Cho phép sử dụng /slapper remove [id]
+        default: op
+      slapper.id:
+        description: Cho phép sử dụng /slapper id
+        default: op
+      slapper.help:
+        description: Cho phép sử dụng /slapper help
+        default: op
