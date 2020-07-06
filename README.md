@@ -4,8 +4,8 @@
 
 # Làm thế nào để cài đặt ?
 1. Tải plugin từ đường link Releases ở bên dưới. (Chọn 1 trong 2 định dạng ZIP & PHAR để tải.)
-2. Copy và paste plugin vào thư mục '''plugins''' của server.
-3. Chạy lệnh '''stop''' trên CONSOLE và bật lại server.
+2. Copy và paste plugin vào thư mục ```plugins``` của server.
+3. Chạy lệnh ```stop``` trên CONSOLE và bật lại server.
 4. XONG!!!
 
 # Thông báo
