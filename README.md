@@ -1,3 +1,4 @@
+`Password: soicon`
 <h1>SlapperVN<img src="https://github.com/jojoe77777/Slapper/blob/master/icon.png" height="64" width="64" align="left"></img></h1>
 
 + Plugin Slapper dành cho người Việt! Đã được việt hóa 100%.
