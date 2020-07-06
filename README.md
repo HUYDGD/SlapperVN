@@ -6,7 +6,7 @@
 # Lệnh
 + /slapper help: Hiển thị tất cả lệnh về Slapper.
 + /rca <người chơi> <lệnh>: Thực thi lệnh bằng một người chơi khác.
-`Các bạn có thể đọc thêm lệnh bằng link nguồn mình để ở trên`
+``Các bạn có thể đọc thêm lệnh bằng link nguồn mình để ở trên``
 
 # Làm thế nào để cài đặt ?
 1. Tải plugin từ đường link Releases ở bên dưới. (Chọn 1 trong 2 định dạng ZIP & PHAR để tải.)
