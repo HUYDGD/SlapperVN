@@ -23,3 +23,6 @@
 ##### Tải về: https://github.com/GamerSoiCon/SlapperVN/releases
 ```Mình đã ngừng việt hóa và cập nhật plugin này!```
 ```Vì vậy, plugin có thể gây lỗi cho server của bạn trong tương lai!```
+
+# Youtube
+[![ĐĂNG KÍ ỦNG HỘ TUI ĐI :<](https://img.youtube.com/vi/CaJdIsmwTYU/0.jpg)](https://youtu.be/CaJdIsmwTYU "ĐĂNG KÍ ỦNG HỘ TUI ĐI :<")
