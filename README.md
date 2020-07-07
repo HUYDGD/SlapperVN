@@ -3,6 +3,7 @@
 
 + Plugin Slapper dành cho người Việt! Đã được việt hóa 100%.
 + Nguồn: https://github.com/jojoe77777/Slapper
++ Phần mềm: PocketMine-MP
 
 # Lệnh
 + /slapper help: Hiển thị tất cả lệnh về Slapper.
