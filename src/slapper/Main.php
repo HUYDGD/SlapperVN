@@ -144,8 +144,9 @@ class Main extends PluginBase implements Listener {
                  ] as $className) {
             Entity::registerEntity($className, true);
         }
-		$this->getLogger()->info("§aSlapper[việt hóa] v1.5.2 đã được bật!");
-		$this->getLogger()->info("§aPlugin được dịch bởi Sói");
+	$this->getLogger()->info("§aSlapper bản ". $this->getDescription()->getVersion() ." §eFULL VIỆT HÓA §ađã được bật!");
+        $this->getLogger()->info("§aPlugin được dịch bởi Sói Oniichan.");
+        $this->getLogger()->info("§cYoutube: §ehttps://www.youtube.com/SoiOniichan");
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
     }
 
